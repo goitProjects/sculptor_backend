@@ -19,7 +19,7 @@
 5. [Ссылка приглашение к доске в trello](https://trello.com/invite/b/7hT1k6dY/c376b260307773c29b5a1b796585714b/sculptor)
 6. [Доска в trello](https://trello.com/b/7hT1k6dY/sculptor)
 7. [Ссылка на инструкцию по работе с github](https://docs.google.com/document/d/1y-nMdpPIIP83rbqPYt6kM_KXMC83UPbkbxKqgaHlnfI/edit)
-8. [Реализацию redux store смотреть в redux devtools готового проекта, они в продакшене не отключены](https://kidslike.goit.co.ua/)
+8. [Реализацию redux store смотреть в redux devtools готового проекта, они в продакшене не отключены](https://sculptor.goit.co.ua/)
 9. [Репозиторий фронтенда](https://github.com/goitProjects/sculptor_frontend)
 
 ## Дополнительная информация:
